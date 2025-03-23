@@ -19,7 +19,7 @@ Este repositório contém a implementação do trabalho da disciplina de **Data 
    - Cálculo da **matriz de correlação** das variáveis do dataset.
 
 ## 🛠 Tecnologias Utilizadas
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, pingouin)
 - **Jupyter Notebook**
 - **NoSQL Databases** (MongoDB, Cassandra, Neo4j)
 
@@ -36,12 +36,6 @@ Este repositório contém a implementação do trabalho da disciplina de **Data 
    ```bash
    jupyter notebook Foguete_Sem_Cobustivel_PBL_TSCO_1o_Ano_Fase5.ipynb
    ```
-
-## 📌 Autores
-- **João Vitor Vieira Marcarini** - RM560819
-- **André da Silva Santos** - RM559527
-- **João Vitor Souza Gonçalves de Oliveira** - RM559692
-- **Laura Aparecida Mariano Da Silva** - RM56004
 
 ## 📜 Licença
 Este projeto foi desenvolvido como parte de um trabalho acadêmico e não possui licença pública.
