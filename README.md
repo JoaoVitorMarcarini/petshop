@@ -4,7 +4,6 @@
 Este repositório contém a implementação do trabalho da disciplina de **Data Science** da FIAP, que aborda a utilização de bancos de dados NoSQL para otimização de desempenho em uma plataforma de e-commerce. O projeto inclui uma prova de conceito para diferentes cenários e uma análise exploratória de dados utilizando Python.
 
 ## 📂 Estrutura do Repositório
-- `Cap 01 - Potencializando o desempenho com NoSQL.pdf` - Documento contendo as instruções do trabalho e o contexto do projeto.
 - `Foguete_Sem_Cobustivel_PBL_TSCO_1o_Ano_Fase5.ipynb` - Notebook Jupyter com o código de análise de dados.
 - `foguetesemcombustivel_PBL_TSCO_1o_Ano_Fase5.pdf` - Documento final formatado conforme o template da FIAP.
 
